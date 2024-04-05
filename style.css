@@ -1,0 +1,107 @@
+body {
+    background-color: #fcfcf9;
+    color: #292929;
+    text-align: center;
+}
+
+.images {
+    margin: auto;
+    padding-left: 50%;
+    width: 10%;
+    height: 10%;
+}
+
+#shmackable{
+    text-align: center;
+    padding: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button {
+    background-color: #292929;
+    color:#fcfcf9;
+    padding: 10px;
+    font-size: large;
+}
+
+#about{ 
+    text-align: center;
+    padding: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#aboutimg {
+    width: 25%;
+    height: auto;
+}
+
+
+img {
+    width: 10%;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2.0em;
+    color: #292929
+}
+
+nav li {
+    display: inline;
+    padding: 50px;
+    
+}
+
+#menu {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.menuDescription {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+table {
+    border: solid 3px;
+    padding: 30px;
+    margin: auto;
+    width: 50%;
+    background-color: #292929;
+    color: #fcfcf9;
+}
+
+thead th{
+    border: solid;
+    width: 25%;
+    padding: 10px;
+}
+
+tbody td {
+    padding: 15px;
+    font-weight: 600;
+}
+
+tfoot td {
+    padding: 15px;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+P{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#contactdiv{
+    padding: 40px;
+}
+
+.line{
+    border: solid;
+    width: 50%;
+}
